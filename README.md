@@ -1,14 +1,90 @@
-## Hi there 👋
-My name is Abdullah Daoud, and I go by **Abdullah-57/Abdullah-57** on GitHub.
-I am currently pursuing my bachelor's degree in software engineering at FAST NUCES Islamabad.
-I am from the 22nd batch section E of my department, and I am currently in my 6th semester.
-Throughout my degree, I have learned many valuable skills, which include both hard and soft skills.
-Hard Skills: Programming Languages, e.g, C++, Java, Python, Web Development, MERN Stack.
-Soft Skills: Time Management, Communication and Presentation, small-scale project management, and teamwork. 
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Abdullah Daoud</h1>
+<h3 align="center">🚀 Software Engineering Student | Full Stack Developer | DevOps Enthusiast | AI/ML Explorer</h3>
 
-- 🔭 I’m currently working on my university assignments for specific courses, which are Software Construction and Development, Design and Analysis of Algorithms, Formal Methods in Software Engineering, and Applied AI. Also, I am working on student society and event projects, which include holding a Game Development competition at the biggest flagship event of our university called NaSCon'25 and working on creating the 4th issue of our campus newsletter called The FAST Times.
-- 🌱 I’m currently learning many software that are used professionally in the industry like Github, Docker, etc. Also, I am currently learning Python programming language
-- 👯 I’m looking to collaborate on any projects that fall under my domain, or if anyone needs my help in any way, I am happy to help 😊
-- 📫 How to reach me:
-- LinkedIn: www.linkedin.com/in/abdullah-daoud-1b3857257
-- ⚡ Hobbies: My current hobbies include gaming, sports, and media projects like reel shoots and photography
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b>Welcome to my GitHub profile!</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</p>
+
+---
+
+## 🌟 About Me
+
+🎓 Final Year **BS Software Engineering** student at **FAST-NUCES, Islamabad**  
+💡 Passionate about **Full Stack Development**, **DevOps**, and transitioning into **AI/ML**  
+🎮 Currently building **OSLearn+**, a gamified LMS for Operating Systems  
+📚 Strong background in **Software Design, Quality, and Architecture**  
+🌍 Based in **Islamabad, Pakistan**  
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,r" height="45" alt="languages"/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="45" alt="mern stack"/>
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,git,linux" height="45" alt="devops"/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" alt="databases"/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=figma,vscode" height="45" alt="tools"/>
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🔹 [OSLearn+](https://github.com/Abdullah-57)  
+🎮 A **fully gamified LMS** focused on teaching Operating Systems concepts (CPU Scheduling, Memory Management, Process Synchronization).  
+✨ Includes **Simulator Mode, Quiz Mode, Story Mode, Challenge Mode**, XP system, badges, and leaderboards.  
+
+### 🔹 Graph Algorithms – DAA Project  
+📊 Implemented and analyzed classical **Graph Algorithms** (Dijkstra, Bellman-Ford, Prim’s, Kruskal’s, BFS, DFS, etc.) on **roadNet-TX dataset** using **Python & NetworkX**.  
+
+### 🔹 MERN + Kubernetes Deployment Project  
+☁️ Built & deployed a MERN application on **Minikube with Docker, Kubernetes, and GitHub Actions (self-hosted runner)**.  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-57&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-57&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🎯 Goals for 2025
+
+- 🚀 Complete and polish **OSLearn+** for FYP  
+- 🤖 Transition into **AI/ML Engineering** and explore **Data Science**  
+- 📂 Build a solid portfolio of projects in **Full Stack & DevOps**  
+- 🌐 Contribute to **open source projects**  
+- 🎤 Keep growing as a **leader & team player** in tech societies  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-daoud-1b3857257">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/Abdullah-57">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
+</p>
+
+---
+
+✨ *“Passionate about learning, adapting, and building things that create value.”* ✨
