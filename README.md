@@ -46,6 +46,66 @@
 ### 🔹 Graph Algorithms – DAA Project  
 📊 Implemented and analyzed classical **Graph Algorithms** (Dijkstra, Bellman-Ford, Prim’s, Kruskal’s, BFS, DFS, etc.) on **roadNet-TX dataset** using **Python & NetworkX**.  
 
+### 🔹 Process Mining & Simulation – Event Log Generation + Alpha Algorithm  
+⚙️ Implemented an **event log generator** with noise/uncommon paths for a shipment & delivery process chain.  
+📈 Applied the **Alpha Algorithm** to mine Petri Nets and visualized them with **Graphviz**.  
+✨ Key highlights:  
+- Event log generation with **noise (SysErr)** & **uncommon paths (ManualOverride)**  
+- Mined Petri Nets capturing sequential, concurrent, XOR & AND splits  
+- Evaluation of **fitness, precision, and accuracy**  
+- Visualization using Graphviz for clear process representation  
+
+### 🔹 Word Ladder Adventure Game  
+🔡 An **interactive word puzzle game** where players transform a start word into a target word, one letter at a time.  
+🤖 AI-powered hints via **BFS, UCS, and A\*** search algorithms.  
+✨ Features:  
+- **Difficulty modes** with banned words, restricted letters, turn & hint limits  
+- **Graph visualization** of the word dictionary  
+- **Scoring system** based on efficiency and hints used  
+- Optimized AI algorithms for real-time gameplay  
+
+### 🔹 Console-Based Chess Game with AI Opponent  
+♟️ A **Python chess game** played via console with an AI opponent powered by **Minimax + Alpha-Beta pruning**.  
+✨ Features:  
+- Supports all chess rules (**castling, en passant, promotion, checkmate, stalemate**)  
+- AI evaluates **material, mobility, king safety, pawn structure**  
+- Competitive play with **depth-3 search**  
+- Robust error handling & user-friendly console interface  
+
+### 🔹 Genetic Algorithm for Automated Test Case Generation  
+🧬 Developed a **Genetic Algorithm** for automated test case generation in **date validation**.  
+✨ Highlights:  
+- Chromosome-based representation for **day, month, year**  
+- Fitness function ensuring **valid, invalid, and boundary cases**  
+- Achieved **~95% coverage**, outperforming random testing  
+- Comparison of **GA vs Random Testing** effectiveness  
+
+### 🔹 Weather AI Web App  
+🌦️ A **real-time weather dashboard** with 5-day forecasts, interactive charts, and a built-in **chatbot powered by Google Gemini API**.  
+✨ Features:  
+- **Search by city** or **use current location**  
+- **Charts:** Bar, Line, and Doughnut (via Chart.js)  
+- **Filterable forecast table** (rainy days, hottest day, sorting)  
+- **AI chatbot** for weather-related Q&A  
+- **Responsive design** with TailwindCSS  
+🔗 Live Demo: [Weather AI Web App](https://zippy-muffin-1424a3.netlify.app)  
+
+### 🔹 Business Process Modeling with BPMN & XPDL  
+📊 Modeled **Internet Service Provision** and **Network Architecture** processes using **BPMN**.  
+✨ Implemented:  
+- Conversion of BPMN models → **XPDL**  
+- **Java-based parser** for extracting activities, events & gateways  
+- **Cycle time simulation** with random activity durations  
+- Process variant analysis for cycle time efficiency  
+
+### 🔹 Process Mining – Manual Supervised Learning with Classification Trees  
+🌳 Constructed **handwritten decision trees** to predict employee attrition using the **ID3 algorithm**.  
+✨ Highlights:  
+- Dataset of 55 records with **Job Role, Marital Status, Company Size, Job Level, Monthly Income**  
+- Information Gain calculations for attribute selection  
+- Built 3 trees, identified **Marital Status → Job Role** as the optimal predictor  
+- Demonstrated strong manual application of **entropy & information gain**  
+
 ### 🔹 MERN + Kubernetes Deployment Project  
 ☁️ Built & deployed a MERN application on **Minikube with Docker, Kubernetes, and GitHub Actions (self-hosted runner)**.  
 
