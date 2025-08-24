@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Abdullah Daoud</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00CFFF">Abdullah Daoud</span></h1>
 <h3 align="center">🚀 Software Engineering Student | Full Stack Developer | DevOps Enthusiast | AI/ML Explorer</h3>
 
 <p align="center">
@@ -10,17 +10,17 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 
 🎓 Final Year **BS Software Engineering** student at **FAST-NUCES, Islamabad**  
-💡 Passionate about **Full Stack Development**, **DevOps**, and transitioning into **AI/ML**  
+💡 Passionate about **Full Stack Development**, **DevOps**, and diving deeper into **AI/ML**  
 🎮 Currently building **OSLearn+**, a gamified LMS for Operating Systems  
-📚 Strong background in **Software Design, Quality, and Architecture**  
-🌍 Based in **Islamabad, Pakistan**  
+📚 Skilled in **Software Design, Architecture, and Quality Engineering**  
+🌍 Living in **Islamabad, Pakistan**  
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack  
 
 <p align="center">
   <!-- Languages -->
@@ -35,73 +35,102 @@
   <img src="https://skillicons.dev/icons?i=figma,vscode" height="45" alt="tools"/>
 </p>
 
----
-
-## 🏆 Featured Projects
-
-### 🔹 [OSXplorer](https://github.com/Abdullah-57)  
-🎮 A **fully gamified LMS** focused on teaching Operating Systems concepts (CPU Scheduling, Memory Management, Process Synchronization).  
-✨ Includes **Simulator Mode, Quiz Mode, Story Mode, Challenge Mode**, XP system, badges, and leaderboards.  
-
-### 🔹 Graph Algorithms – DAA Project  
-📊 Implemented and analyzed classical **Graph Algorithms** (Dijkstra, Bellman-Ford, Prim’s, Kruskal’s, BFS, DFS, etc.) on **roadNet-TX dataset** using **Python & NetworkX**.  
-
-### 🔹 Process Mining & Simulation – Event Log Generation + Alpha Algorithm  
-⚙️ Implemented an **event log generator** with noise/uncommon paths for a shipment & delivery process chain.  
-📈 Applied the **Alpha Algorithm** to mine Petri Nets and visualized them with **Graphviz**.  
-
-### 🔹 Word Ladder Adventure Game  
-🔡 An **interactive word puzzle game** where players transform a start word into a target word, one letter at a time.  
-🤖 AI-powered hints via **BFS, UCS, and A\*** search algorithms.  
-
-### 🔹 Console-Based Chess Game with AI Opponent  
-♟️ A **Python chess game** played via console with an AI opponent powered by **Minimax + Alpha-Beta pruning**.  
-
-### 🔹 Genetic Algorithm for Automated Test Case Generation  
-🧬 Developed a **Genetic Algorithm** for automated test case generation in **date validation**.  
-
-### 🔹 Weather AI Web App  
-🌦️ A **real-time weather dashboard** with 5-day forecasts, interactive charts, and a built-in **chatbot powered by Google Gemini API**.  
-🔗 Live Demo: [Weather AI Web App](https://zippy-muffin-1424a3.netlify.app)  
-
-### 🔹 Business Process Modeling with BPMN & XPDL  
-📊 Modeled **Internet Service Provision** and **Network Architecture** processes using **BPMN**.  
-
-### 🔹 Process Mining – Manual Supervised Learning with Classification Trees  
-🌳 Constructed **handwritten decision trees** to predict employee attrition using the **ID3 algorithm**.  
-
-### 🔹 MERN + Kubernetes Deployment of MERN Stack Project  
-☁️ Built & deployed a MERN application on **Minikube with Docker, Kubernetes, and GitHub Actions (self-hosted runner)**.  
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-57&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-57&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-React-green?logo=react">
+  <img src="https://img.shields.io/badge/DevOps-Kubernetes-blue?logo=kubernetes">
+  <img src="https://img.shields.io/badge/Database-Postgres-blueviolet?logo=postgresql">
 </p>
 
 ---
 
-## 🎯 Goals for 2025
+## 🏆 Featured Projects  
 
-- 🚀 Complete and polish **OSLearn+** for FYP  
-- 🤖 Transition into **AI/ML Engineering** and explore **Data Science**  
-- 📂 Build a solid portfolio of projects in **Full Stack & DevOps**  
-- 🌐 Contribute to **open source projects**  
-- 🎤 Keep growing as a **leader & team player** in tech societies  
+### 🎮 [OSXplorer](https://github.com/Abdullah-57)  
+🚀 A **gamified LMS** to learn Operating Systems concepts.  
+✨ Includes **Simulator, Quiz, Story, and Challenge Modes** with XP, badges, and leaderboards.  
 
 ---
 
-## 🌐 Connect with Me
+### ⚙️ Process Mining & Simulation – *Event Log + Alpha Algorithm*  
+📊 Built an **event log generator** with noise/uncommon paths for shipment & delivery processes.  
+🖇️ Applied **Alpha Algorithm** → Petri Net Mining + **Graphviz Visualization**.  
+
+---
+
+### 🔡 Word Ladder Adventure Game  
+🔗 Transform a **start word → target word** with one-letter changes.  
+🤖 AI-powered hints using **BFS, UCS, and A\*** search algorithms.  
+🎯 Difficulty modes, banned words, and scoring system.  
+
+---
+
+### ♟️ Console Chess Game with AI Opponent  
+🧠 AI Opponent powered by **Minimax + Alpha-Beta pruning**.  
+✔️ Supports **castling, en passant, promotion, checkmate, stalemate**.  
+
+---
+
+### 🧬 Genetic Algorithm for Test Case Generation  
+📌 Automated **date validation test case generation**.  
+⚡ Achieved **~95% coverage**, outperforming random testing.  
+
+---
+
+### 🌦️ [Weather AI Web App](https://zippy-muffin-1424a3.netlify.app)  
+☁️ A **real-time weather dashboard** with **Google Gemini chatbot integration**.  
+📊 Charts (Bar, Line, Doughnut) + **Filterable Forecast Table**.  
+
+---
+
+### 🏗️ Business Process Modeling (BPMN + XPDL)  
+📈 Modeled **Internet Service Provision & Network Architecture**.  
+🔄 Converted BPMN → **XPDL** with cycle time simulation.  
+
+---
+
+### 🌳 Manual Supervised Learning with Decision Trees  
+📌 Handcrafted decision trees for **employee attrition prediction** using **ID3 Algorithm**.  
+🔍 Optimal predictor found: **Marital Status → Job Role**.  
+
+---
+
+### ☸️ MERN + Kubernetes Deployment  
+⚡ Full-stack app deployed on **Minikube with Docker, Kubernetes, and GitHub Actions**.  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-57&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-57&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdullah-57&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 2025 Goals  
+
+✅ Finish & polish **OSLearn+ (FYP)**  
+✅ Transition into **AI/ML Engineering**  
+✅ Build strong **Full Stack + DevOps portfolio**  
+✅ Contribute to **open-source projects**  
+✅ Grow as a **leader & collaborator**  
+
+---
+
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-daoud-1b3857257">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="https://github.com/Abdullah-57">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
 </p>
 
@@ -111,4 +140,6 @@
 
 ---
 
-✨ *“Passionate about learning, adapting, and building things that create value.”* ✨
+<p align="center">
+✨ <i>"Passionate about learning, adapting, and building things that create real value."</i> ✨
+</p>
